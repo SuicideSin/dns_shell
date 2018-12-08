@@ -21,7 +21,7 @@ Educational use intended...don't break the law and say I didn't say you shouldn'
 This can be used in two ways - the dumb way and the smart way.
 
 #### Dumb way
-Dumb way is simply setting up a server and using it like so:
+The dumb way is simply setting up a server and using it like so:
 
 On the server:
 ```
