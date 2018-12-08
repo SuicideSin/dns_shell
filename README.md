@@ -1,7 +1,7 @@
 # DNS Shell
 
 ## Introduction
-This is a simple dns shell. I've heard a few security talks lately, and I've heard people talk of dns shells like they are new and hip...yet they've been around since the late 90's...is it just me who has heard of these for years?
+This is a simple dns shell. I've gone to a few security talks lately, and it seems to me people talk of dns shells like they are new and hip...yet they've been around since the late 90's...is it just me who has heard of these for years?
 
 Anyways, this is a pretty simple shell setup. It contains a custom DNS server that sits and listens for TXT request from a custom DNS client.
 
