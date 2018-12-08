@@ -72,14 +72,14 @@ DNS Port (press enter for 53):
 ```
 
 ## Files
-`alpha.py`		- Arbitrary(ish) encoding system.
-`b62.py`		- Base62 encoder using alpha.py.
-`client.py`		- Client (aka shell).
-`cnc.py`		- Non-blocking command line interface.
-`crypt.py`		- Encryption scheme (AES128).
-`server.py`		- Server (aka shell handler).
-`session.py`	- DNS session handler (has a session number that isn't used at the moment...)
-`util.py`		- Random utility functions needed.
+- `alpha.py` - Arbitrary(ish) encoding system.
+- `b62.py` - Base62 encoder using alpha.py.
+- `client.py` - Client (aka shell).
+- `cnc.py` - Non-blocking command line interface.
+- `crypt.py` - Encryption scheme (AES128).
+- `server.py` - Server (aka shell handler).
+- `session.py` - DNS session handler (has a session number that isn't used at the moment...)
+- `util.py` - Random utility functions needed.
 
 ## Closing
 Summary: Simple liitle dns shell with encrypted comms that still needs a lot of work...but it served its purpose...
