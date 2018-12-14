@@ -14,7 +14,7 @@ def available(conn):
 		readable,writeable,errored=select.select([conn],[],[],0)
 		if conn in readable:
 			return True
-	except:
+	except Exception:
 		pass
 	return False
 
